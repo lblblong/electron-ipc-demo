@@ -1,5 +1,9 @@
 # 基于 Proxy 实现的 ipc 演示
 
+![QQ20241028 143637](https://s1.imagehub.cc/images/2024/10/28/2142b71fa6a9ba84589d7da4e63da7fd.png)
+
+## 实现方式
+
 1. 首先需要在主进程注册 ipc 事件
 
 ```typescript
